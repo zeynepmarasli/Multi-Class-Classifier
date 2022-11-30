@@ -1,6 +1,5 @@
-# Indicate the name of the program
-# Give a short description of the problem solved
-# Give a short description on how to run your code
+#Multi-Class Classifier
+Implements Subtask C from the 2017 POLEVAL Shared Task: http://2017.poleval.pl/index.php/tasks/ 
 
 1. baseline.ipynb 
     - Runs a Naive Bayes and Decision Tree algorithm on a bag of words representation and provides F1, precision, and recall metrics. 
